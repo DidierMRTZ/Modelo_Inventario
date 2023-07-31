@@ -1,0 +1,24 @@
+21.07.2023                                                                                                       Salida dinámica de lista                                                                                                                                                             1
+
+
+	Can.distr.	Denominación	Seccion	Estado	Solic.	Nombre	Pedido	Clase Pedi	Creado el	Pedido	Posición	Material	Vlr.Neto P	Moneda	Cantidad P	Cantidad C	UM venta	Vlr.Neto C	Status Glo	Status Tot	Status Ent	Status Ent	Status Ent
+
+	08	PROFESSIONAL	Picking	2. Entrega generada parcialmente	1000061433	CRISTIAN FERNANDEZ SOLIS	903146676	ZTAC	05.07.2023		      10	PB0074597	   240,340	COP	         5	         2	UN	    96,136	B	D	B	B	B
+	08	PROFESSIONAL	Picking	1. Pendiente de generación de Entrega	1000065907	MITCHELL ANGGELO BERMUDEZ RAMIREZ	903155539	ZTAC	17.07.2023	INS-125074	     100	PB0091818	   106,991	COP	         1	         0	UN	         0	B	D	B	B	A
+	08	PROFESSIONAL	Picking	1. Pendiente de generación de Entrega	1000064376	ATEMPO SALON SAS	903156081	ZTAC	18.07.2023		      20	PB0076526	   435,069	COP	         9	         0	UN	         0	B	D	B	B	A
+	08	PROFESSIONAL	Picking	2. Entrega generada parcialmente	1000021546	VIVANA MARIA MOLINA URIBE	903156096	ZTAC	18.07.2023		     220	PB0091818	   213,982	COP	         2	         0	UN	         0	B	D	B	B	B
+	08	PROFESSIONAL	Picking	1. Pendiente de generación de Entrega	1000021546	VIVANA MARIA MOLINA URIBE	903156096	ZTAC	18.07.2023		     110	PB0076526	   290,046	COP	         6	         0	UN	         0	B	D	B	B	A
+	08	PROFESSIONAL	Picking	1. Pendiente de generación de Entrega	1000050474	LEIDIS BEATRIZ PINTO PALMEZANO	903156263	ZTAC	18.07.2023	INS-125166	      40	PB0093058	    37,212	COP	         2	         0	UN	         0	B	A	B	B	A
+	08	PROFESSIONAL	Picking	1. Pendiente de generación de Entrega	1000065294	YURY TATIANA SANCHEZ LOZANO	903156265	ZTAC	18.07.2023	INS-125168	     200	PB0097946	    43,767	COP	         3	         0	UN	         0	B	A	B	B	A
+	08	PROFESSIONAL	Picking	1. Pendiente de generación de Entrega	1000064178	GENNY MARLENE LIZARAZO BASTO	903156301	ZTAC	18.07.2023		     500	PB0093058	    18,606	COP	         1	         0	UN	         0	B	D	B	B	A
+	08	PROFESSIONAL	Picking	1. Pendiente de generación de Entrega	1000067361	HERMELINDA HERRERA SANGUINO	903156302	ZTAC	18.07.2023		     130	PB0093058	    18,606	COP	         1	         0	UN	         0	B	A	B	B	A
+	08	PROFESSIONAL	Picking	1. Pendiente de generación de Entrega	1000021079	AUGUSTO ARENAS CESAR	903156303	ZTAC	19.07.2023		      80	PB0093058	    17,676	COP	         1	         0	UN	         0	B	A	B	B	A
+	08	PROFESSIONAL	Picking	1. Pendiente de generación de Entrega	1000062059	MERCEDES MARIA CRIADO LINDASE	903156332	ZTAC	19.07.2023	INS-125183	     300	PB0079760	    71,455	COP	         5	         0	UN	         0	B	A	B	B	A
+	08	PROFESSIONAL	Picking	1. Pendiente de generación de Entrega	1000058903	GUSTAVO ADOLFO GOMEZ MUÑOZ	903156353	ZTAC	19.07.2023	INS-125185	     110	PB0048928	    27,719	COP	         2	         2	UN	    27,719	B	A	B	B	A
+	08	PROFESSIONAL	Picking	1. Pendiente de generación de Entrega	1000039068	JHON FREDDY ALARCON ZAPATA	903156359	ZTAC	19.07.2023	INS-125187	     200	PB0049158	    14,589	COP	         1	         0	UN	         0	B	D	B	B	A
+	08	PROFESSIONAL	Picking	1. Pendiente de generación de Entrega	1000067307	LAURA ALEJANDRA RODRIGUEZ MURCIA	903156392	ZTAC	19.07.2023	INS-125194	      10	PB0097948	    43,767	COP	         3	         0	UN	         0	B	D	B	B	A
+	08	PROFESSIONAL	Picking	2. Entrega generada parcialmente	1000067307	LAURA ALEJANDRA RODRIGUEZ MURCIA	903156392	ZTAC	19.07.2023	INS-125194	     250	PB0091531	   243,528	COP	        12	         0	UN	         0	B	D	B	B	B
+	08	PROFESSIONAL	Picking	1. Pendiente de generación de Entrega	1000065644	MIGUEL ANTONIO BERMUDEZ HUNDA	903156440	ZTAC	19.07.2023	INS-125211	     210	PB0083882	   258,688	COP	         4	         1	UN	    64,672	B	A	B	B	A
+	08	PROFESSIONAL	Picking	1. Pendiente de generación de Entrega	1000050761	ALEXANDRA MARCELA BARRERA CORDOBA	903156589	ZTAC	19.07.2023	INS-125289	      10	PB0091818	   106,991	COP	         1	         1	UN	   106,991	B	D	B	B	A
+	08	PROFESSIONAL	Picking	1. Pendiente de generación de Entrega	1000021854	JENNIFFER VARELA SOTELO	903157164	ZTAC	19.07.2023	INS-125302	      10	PB0097056	         0	COP	         1	         1	UN	         0	B	D	B	B	A
+	08	PROFESSIONAL	Picking	1. Pendiente de generación de Entrega	1000020683	CLAUDIA PATRICIA MERCADO RAMIREZ	903157450	ZTAC	20.07.2023		     320	PB0093059	    37,212	COP	         2	         0	UN	         0	B	D	B	B	A

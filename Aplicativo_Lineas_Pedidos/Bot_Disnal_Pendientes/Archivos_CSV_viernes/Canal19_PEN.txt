@@ -1,0 +1,13 @@
+21.07.2023                                                                                                  Salida dinámica de lista                                                                                                                                                        1
+
+
+	Can.distr.	Denomin.	Seccion	Estado	Solic.	Nombre	Pedido	Clase Pedi	Creado el	Pedido	Posición	Material	Vlr.Neto P	Moneda	Cantidad P	Cantidad C	UM venta	Vlr.Neto C	Status Glo	Status Tot	Status Ent	Status Ent	Status Ent
+
+	19	ALTERNATIVO	Picking	1. Pendiente de generación de Entrega	1000061122	CROYDON COLOMBIA S A	903157181	ZTAC	19.07.2023	23000682 - OP	      10	1006950050	17,069,280	COP	     1,720	     1,720	UN	17,069,280	B	D	A	A	A
+	19	ALTERNATIVO	Picking	1. Pendiente de generación de Entrega	1000061272	ELEDE CASA SAS	903157669	ZTAC	21.07.2023	4501264492	      70	PB0087637	 3,629,700	COP	       900	       900	UN	 3,629,700	B	A	A	A	A
+	19	ALTERNATIVO	Picking	1. Pendiente de generación de Entrega	1000061272	ELEDE CASA SAS	903157669	ZTAC	21.07.2023	4501264492	      60	PB0080343	   887,400	COP	        60	        60	UN	   887,400	B	A	A	A	A
+	19	ALTERNATIVO	Picking	1. Pendiente de generación de Entrega	1000061272	ELEDE CASA SAS	903157669	ZTAC	21.07.2023	4501264492	      50	PB0040664	   484,020	COP	        90	        90	UN	   484,020	B	A	A	A	A
+	19	ALTERNATIVO	Picking	1. Pendiente de generación de Entrega	1000061272	ELEDE CASA SAS	903157669	ZTAC	21.07.2023	4501264492	      40	PB0025104	 1,887,444	COP	       468	       468	UN	 1,887,444	B	A	A	A	A
+	19	ALTERNATIVO	Picking	1. Pendiente de generación de Entrega	1000061272	ELEDE CASA SAS	903157669	ZTAC	21.07.2023	4501264492	      30	PB0030243	 1,764,720	COP	       180	       180	UN	 1,764,720	B	A	A	A	A
+	19	ALTERNATIVO	Picking	1. Pendiente de generación de Entrega	1000061272	ELEDE CASA SAS	903157669	ZTAC	21.07.2023	4501264492	      20	PB0025175	   229,896	COP	        36	        36	UN	   229,896	B	A	A	A	A
+	19	ALTERNATIVO	Picking	1. Pendiente de generación de Entrega	1000061272	ELEDE CASA SAS	903157669	ZTAC	21.07.2023	4501264492	      10	PB0065896	   306,528	COP	        48	        48	UN	   306,528	B	A	A	A	A

@@ -1,0 +1,1 @@
+Nº Pedido cliente	Clase Orden	PrimFecEnt	ÚltEntrega

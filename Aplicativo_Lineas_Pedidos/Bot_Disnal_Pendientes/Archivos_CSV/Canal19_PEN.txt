@@ -1,0 +1,16 @@
+21.07.2023                                                                                                  Salida dinámica de lista                                                                                                                                                        1
+
+
+	Can.distr.	Denomin.	Seccion	Estado	Solic.	Nombre	Pedido	Clase Pedi	Creado el	Pedido	Posición	Material	Vlr.Neto P	Moneda	Cantidad P	Cantidad C	UM venta	Vlr.Neto C	Status Glo	Status Tot	Status Ent	Status Ent	Status Ent
+
+	19	ALTERNATIVO	Picking	2. Entrega generada parcialmente	1000006060	NOVAVENTA  SAS	903156087	ZED1	18.07.2023	4502615112	      20	PB0073082	 1,764,600	COP	       300	         0	UN	         0	B	A	B	B	B
+	19	ALTERNATIVO	Picking	2. Entrega generada parcialmente	1000006060	NOVAVENTA  SAS	903156087	ZED1	18.07.2023	4502615112	      30	PB0064043	28,618,920	COP	     1,980	       159	UN	 2,298,186	B	A	B	B	B
+	19	ALTERNATIVO	Picking	2. Entrega generada parcialmente	1000006060	NOVAVENTA  SAS	903156087	ZED1	18.07.2023	4502615112	     210	PB0026961	 2,759,040	COP	       240	         0	UN	         0	B	A	B	B	B
+	19	ALTERNATIVO	Picking	2. Entrega generada parcialmente	1000006060	NOVAVENTA  SAS	903156087	ZED1	18.07.2023	4502615112	     140	PB0079575	 4,440,960	COP	       180	       169	UN	 4,169,568	B	A	B	B	B
+	19	ALTERNATIVO	Picking	2. Entrega generada parcialmente	1000006060	NOVAVENTA  SAS	903156087	ZED1	18.07.2023	4502615112	     130	PB0091161	 2,422,728	COP	       792	         0	UN	         0	B	A	B	B	B
+	19	ALTERNATIVO	Picking	1. Pendiente de generación de Entrega	1000006060	NOVAVENTA  SAS	903156087	ZED1	18.07.2023	4502615112	     550	PB0088954	 1,038,312	COP	       396	         0	UN	         0	B	A	B	B	A
+	19	ALTERNATIVO	Picking	1. Pendiente de generación de Entrega	1000006060	NOVAVENTA  SAS	903156087	ZED1	18.07.2023	4502615112	     110	PB0053046	 1,418,560	COP	       352	         0	UN	         0	B	A	B	B	A
+	19	ALTERNATIVO	Picking	1. Pendiente de generación de Entrega	1000006060	NOVAVENTA  SAS	903156087	ZED1	18.07.2023	4502615112	      60	PB0091162	 4,848,305	COP	       539	         0	UN	         0	B	A	B	B	A
+	19	ALTERNATIVO	Picking	1. Pendiente de generación de Entrega	1000006060	NOVAVENTA  SAS	903156087	ZED1	18.07.2023	4502615112	      40	PB0063249	 5,637,042	COP	       258	         0	UN	         0	B	A	B	B	A
+	19	ALTERNATIVO	Picking	1. Pendiente de generación de Entrega	1000006060	NOVAVENTA  SAS	903156087	ZED1	18.07.2023	4502615112	      10	PB0074287	   415,440	COP	       120	         0	UN	         0	B	A	B	B	A
+	19	ALTERNATIVO	Picking	1. Pendiente de generación de Entrega	1000061122	CROYDON COLOMBIA S A	903157181	ZTAC	19.07.2023	23000682 - OP	      10	1006950050	17,069,280	COP	     1,720	     1,720	UN	17,069,280	B	D	A	A	A

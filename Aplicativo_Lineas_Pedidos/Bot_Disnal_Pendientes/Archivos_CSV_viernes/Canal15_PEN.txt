@@ -1,0 +1,32 @@
+21.07.2023                                                                                                   Salida dinámica de lista                                                                                                                                                        1
+
+
+	Can.distr.	Denomin.	Seccion	Estado	Solic.	Nombre	Pedido	Clase Pedi	Creado el	Nº ped.cliente	Posición	Material	Vlr.Neto P	Moneda	Cantidad P	Cantidad C	UM venta	Vlr.Neto C	Status Glo	Status Tot	Status Ent	Status Ent	Status Ent
+
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5138963	yarlin Cataño	903157304	ZECM	19.07.2023	1347990999922-01	      30	PB0037203	    10,450	COP	         1	         1	UN	    10,450	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5138963	yarlin Cataño	903157304	ZECM	19.07.2023	1347990999922-01	      20	PB0079615	     1,253	COP	         1	         1	UN	     1,253	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5138963	yarlin Cataño	903157304	ZECM	19.07.2023	1347990999922-01	      10	PB0076429	     3,182	COP	         1	         1	UN	     3,182	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5138963	yarlin Cataño	903157304	ZECM	19.07.2023	1347990999922-01	      40	PB0083468	     9,800	COP	         1	         1	UN	     9,800	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5138963	yarlin Cataño	903157304	ZECM	19.07.2023	1347990999922-01	      50	PB0084874	     1,800	COP	         1	         1	UN	     1,800	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5138963	yarlin Cataño	903157304	ZECM	19.07.2023	1347990999922-01	      60	PB0093457	    24,589	COP	         1	         1	UN	    24,589	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5138963	yarlin Cataño	903157304	ZECM	19.07.2023	1347990999922-01	      70	PB0044478	    12,476	COP	         1	         1	UN	    12,476	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5139763	Nicole Posada Paternina	903157782	ZECM	21.07.2023	1348431000590-01	      10	PB0084199	    14,559	COP	         1	         1	UN	    14,559	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5139763	Nicole Posada Paternina	903157782	ZECM	21.07.2023	1348431000590-01	      20	PB0089044	     7,470	COP	         1	         1	UN	     7,470	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5139763	Nicole Posada Paternina	903157782	ZECM	21.07.2023	1348431000590-01	      30	PB0086348	     8,059	COP	         1	         1	UN	     8,059	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5139763	Nicole Posada Paternina	903157782	ZECM	21.07.2023	1348431000590-01	      40	PB0068326	     5,874	COP	         1	         1	UN	     5,874	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5139843	Sofia Maldonado	903157787	ZECM	21.07.2023	1348441000592-01	      50	PB0068326	     4,193	COP	         1	         1	UN	     4,193	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5139843	Sofia Maldonado	903157787	ZECM	21.07.2023	1348441000592-01	      40	PB0090079	     9,589	COP	         1	         0	UN	         0	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5139843	Sofia Maldonado	903157787	ZECM	21.07.2023	1348441000592-01	      30	PB0082581	     6,714	COP	         1	         1	UN	     6,714	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5139843	Sofia Maldonado	903157787	ZECM	21.07.2023	1348441000592-01	      20	PB0090692	     3,974	COP	         1	         1	UN	     3,974	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5139843	Sofia Maldonado	903157787	ZECM	21.07.2023	1348441000592-01	      10	PB0065903	    18,375	COP	         3	         3	UN	    18,375	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	550065	Dana Clavijo	903157798	ZECM	21.07.2023	1348441000596-01	      10	PB0084201	    24,750	COP	         2	         2	UN	    24,750	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	550065	Dana Clavijo	903157798	ZECM	21.07.2023	1348441000596-01	      20	PB0093538	     5,161	COP	         1	         1	UN	     5,161	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	550065	Dana Clavijo	903157798	ZECM	21.07.2023	1348441000596-01	      30	PB0089127	    18,449	COP	         1	         1	UN	    18,449	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	550065	Dana Clavijo	903157798	ZECM	21.07.2023	1348441000596-01	      40	PB0068326	     7,975	COP	         1	         1	UN	     7,975	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5139846	NICOLE CAÑON	903157800	ZECM	21.07.2023	1348441000594-01	      20	PB0065564	    17,751	COP	         1	         1	UN	    17,751	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5139846	NICOLE CAÑON	903157800	ZECM	21.07.2023	1348441000594-01	      10	PB0086467	     5,422	COP	         1	         1	UN	     5,422	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5139846	NICOLE CAÑON	903157800	ZECM	21.07.2023	1348441000594-01	      30	PB0045754	    13,048	COP	         1	         1	UN	    13,048	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5139846	NICOLE CAÑON	903157800	ZECM	21.07.2023	1348441000594-01	      40	PB0068326	     5,874	COP	         1	         1	UN	     5,874	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5123703	Marley Marin	903157818	ZECM	21.07.2023	1348441000598-02	      10	PB0093497	    24,589	COP	         1	         1	UN	    24,589	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5123703	Marley Marin	903157818	ZECM	21.07.2023	1348441000598-02	      20	PB0093122	    36,697	COP	         1	         1	UN	    36,697	A		A	A	A
+	15	E-COMMERCE	Picking	1. Pendiente de generación de Entrega	5123703	Marley Marin	903157818	ZECM	21.07.2023	1348441000598-02	      30	PB0068326	     4,193	COP	         1	         1	UN	     4,193	A		A	A	A
